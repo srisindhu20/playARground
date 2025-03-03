@@ -74,7 +74,7 @@
     {
       "icon": "fa fa-image",
       "title": "Marker-Based and Markerless AR",
-      "text": "The application supports both marker-based AR (requiring reference images) and markerless AR, allowing flexibility in how students interact with educational content."
+      "text": "The application supports both marker-based AR (requires reference images) and markerless AR, allowing flexibility in how students interact with educational content."
     },
     {
       "icon": "fa fa-mobile",
