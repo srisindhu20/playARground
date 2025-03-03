@@ -1,0 +1,90 @@
+{
+  "Header": {
+    "paragraph": "Empowering students with immersive, interactive learning experiences through Augmented Reality in Education."
+  },
+  "About": {
+    "paragraph": "Welcome to playARground, where we are transforming the educational landscape through immersive Augmented Reality experiences. Our mission is to provide personalized, accessible, and engaging learning tools for students of all ages and abilities, including those with disabilities. By integrating interactive 3D models and immersive content, we aim to bridge the educational gap, making learning more effective and enjoyable.\nAt playARground, we believe in the power of technology to create equal learning opportunities and enhance academic outcomes. Join us in revolutionizing education, one immersive experience at a time!.",
+    "Why": [
+      "Inclusive Learning",
+      "Immersive and Engaging Content",
+      "Continuous Innovation"
+    ],
+    "Why2": [
+      "Proven Impact on Academics",
+      "Future-Ready Education",
+      "Real-World Applications"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Human Anatomy",
+      "largeImage": "img/Human.jpg",
+      "smallImage": "img/Human.jpg"
+    },
+    {
+      "title": "Jet Turbine",
+      "largeImage": "img/Jet.jpeg",
+      "smallImage": "img/Jet.jpeg"
+    },
+    {
+      "title": "Planets",
+      "largeImage": "img/solar.gif",
+      "smallImage": "img/solar.gif"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-child",
+      "name": "ELEMENTARY"
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "PRIMARY"
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "SECONDARY"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Picture1.jpg",
+      "name": "Aayushi"
+    },
+    {
+      "img": "img/team/Picture4.png",
+      "name": "Sneha"
+    },
+    {
+      "img": "img/team/Picture2.jpg",
+      "name": "Aditi"
+    },
+    {
+      "img": "img/team/Picture3.jpg",
+      "name": "Sindhu"
+    }
+
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-cube",
+      "title": "Immersive 3D Learning Models",
+      "text": "playARground offers interactive 3D models in various subjects like human anatomy and jet engines, providing students with an engaging, hands-on learning experience."
+    },
+    {
+      "icon": "fa fa-image",
+      "title": "Marker-Based and Markerless AR",
+      "text": "The application supports both marker-based AR (requiring reference images) and markerless AR, allowing flexibility in how students interact with educational content."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "title": "Cross-Platform Compatibility",
+      "text": "Built using Unity, AR Core, and AR Foundation, the application ensures seamless functionality across different devices, offering a consistent learning experience."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Interactive Learning Environment",
+      "text": "Students can explore complex subjects like anatomy and engineering through real-time interaction with AR models, making learning more immersive and dynamic."
+    }
+  ]
+}
